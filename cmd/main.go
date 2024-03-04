@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-
 	log.Println("Программа запущена.")
 	fmt.Println()
 	function.Daytask()
